@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
     s.author = { "Nathan Tannar" => "nathantannar4@gmail.com" }
 
     # 5 - Homepage
-    s.homepage = "https://github.com/HB-Krutagn/HB-InputBarAccessoryView"
+    s.homepage = "https://github.com/HB-Krutagn/HBInputBarAccessoryView"
 
     # 6 - Source
     s.source = { :git => "https://github.com/HB-Krutagn/HBInputBarAccessoryView.git", :tag => "#{s.version}"}
